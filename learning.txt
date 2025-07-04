@@ -1,1 +1,1 @@
-so far in this course I've learned how to add files to my repository, how to pull requests, how to commit changes and other things in the week one content 
+what I have learned from this course so far is how to add files to my repository, how to pull requests, how to commit changes and other things in the week one content 
